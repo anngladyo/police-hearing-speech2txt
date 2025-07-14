@@ -1,0 +1,470 @@
+[
+    {
+        "Id": "f8b7c6a5d4e3210987654321abcdefab",
+        "RecognitionStatus": "Success",
+        "Offset": 0,
+        "Duration": 4200000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Officer",
+        "DisplayText": "Good morning. Can you confirm the date and time of the incident?",
+        "NBest": [
+            {
+                "Confidence": 0.931275,
+                "Lexical": "good morning can you confirm the date and time of the incident",
+                "ITN": "good morning can you confirm the date and time of the incident",
+                "MaskedITN": "good morning can you confirm the date and time of the incident",
+                "Display": "Good morning. Can you confirm the date and time of the incident?",
+                "Words": [
+                    {"Word": "good", "Offset": 0, "Duration": 700000},
+                    {"Word": "morning", "Offset": 700000, "Duration": 1000000},
+                    {"Word": "can", "Offset": 1700000, "Duration": 500000},
+                    {"Word": "you", "Offset": 2200000, "Duration": 400000},
+                    {"Word": "confirm", "Offset": 2600000, "Duration": 800000},
+                    {"Word": "the", "Offset": 3400000, "Duration": 300000},
+                    {"Word": "date", "Offset": 3700000, "Duration": 500000},
+                    {"Word": "and", "Offset": 4200000, "Duration": 400000},
+                    {"Word": "time", "Offset": 4600000, "Duration": 600000},
+                    {"Word": "of", "Offset": 5200000, "Duration": 300000},
+                    {"Word": "the", "Offset": 5500000, "Duration": 300000},
+                    {"Word": "incident", "Offset": 5800000, "Duration": 700000}
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "1a2b3c4d5e6f7890abcd1234567890ef",
+        "RecognitionStatus": "Success",
+        "Offset": 7000000,
+        "Duration": 3500000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Witness",
+        "DisplayText": "Yes, it happened on the 5th of July at around 9:30 in the morning.",
+        "NBest": [
+            {
+                "Confidence": 0.917842,
+                "Lexical": "yes it happened on the fifth of july at around nine thirty in the morning",
+                "ITN": "yes it happened on the 5th of July at around 9:30 in the morning",
+                "MaskedITN": "yes it happened on the 5th of July at around 9:30 in the morning",
+                "Display": "Yes, it happened on the 5th of July at around 9:30 in the morning.",
+                "Words": [
+                    {"Word": "yes", "Offset": 7000000, "Duration": 400000},
+                    {"Word": "it", "Offset": 7400000, "Duration": 300000},
+                    {"Word": "happened", "Offset": 7700000, "Duration": 900000},
+                    {"Word": "on", "Offset": 8600000, "Duration": 300000},
+                    {"Word": "the", "Offset": 8900000, "Duration": 300000},
+                    {"Word": "fifth", "Offset": 9200000, "Duration": 500000},
+                    {"Word": "of", "Offset": 9700000, "Duration": 300000},
+                    {"Word": "july", "Offset": 10000000, "Duration": 600000},
+                    {"Word": "at", "Offset": 10600000, "Duration": 300000},
+                    {"Word": "around", "Offset": 10900000, "Duration": 600000},
+                    {"Word": "nine", "Offset": 11500000, "Duration": 400000},
+                    {"Word": "thirty", "Offset": 11900000, "Duration": 500000},
+                    {"Word": "in", "Offset": 12400000, "Duration": 300000},
+                    {"Word": "the", "Offset": 12700000, "Duration": 200000},
+                    {"Word": "morning", "Offset": 12900000, "Duration": 600000}
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "2b3c4d5e6f7890ab1234567890abcdef",
+        "RecognitionStatus": "Success",
+        "Offset": 13500000,
+        "Duration": 4000000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Officer",
+        "DisplayText": "Thank you. And where exactly did this incident take place?",
+        "NBest": [
+            {
+                "Confidence": 0.925864,
+                "Lexical": "thank you and where exactly did this incident take place",
+                "ITN": "thank you and where exactly did this incident take place",
+                "MaskedITN": "thank you and where exactly did this incident take place",
+                "Display": "Thank you. And where exactly did this incident take place?"
+            }
+        ]
+    },
+    {
+        "Id": "3c4d5e6f7890ab1234567890abcdef12",
+        "RecognitionStatus": "Success",
+        "Offset": 17500000,
+        "Duration": 4500000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Witness",
+        "DisplayText": "It happened at 425 Oak Street, outside the downtown convenience store.",
+        "NBest": [
+            {
+                "Confidence": 0.912345,
+                "Lexical": "it happened at four twenty five oak street outside the downtown convenience store",
+                "ITN": "it happened at 425 Oak Street outside the downtown convenience store",
+                "MaskedITN": "it happened at 425 Oak Street outside the downtown convenience store",
+                "Display": "It happened at 425 Oak Street, outside the downtown convenience store."
+            }
+        ]
+    },
+    {
+        "Id": "4d5e6f7890ab1234567890abcdef1234",
+        "RecognitionStatus": "Success",
+        "Offset": 22000000,
+        "Duration": 5000000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Officer",
+        "DisplayText": "For the record, this is Officer Sarah Johnson, badge number 4587, conducting this preliminary hearing on July 10th, 2025 at 2:30 PM.",
+        "NBest": [
+            {
+                "Confidence": 0.934567,
+                "Lexical": "for the record this is officer sarah johnson badge number four five eight seven conducting this preliminary hearing on july tenth twenty twenty five at two thirty pm",
+                "ITN": "for the record this is Officer Sarah Johnson badge number 4587 conducting this preliminary hearing on July 10th 2025 at 2:30 PM",
+                "MaskedITN": "for the record this is Officer Sarah Johnson badge number 4587 conducting this preliminary hearing on July 10th 2025 at 2:30 PM",
+                "Display": "For the record, this is Officer Sarah Johnson, badge number 4587, conducting this preliminary hearing on July 10th, 2025 at 2:30 PM."
+            }
+        ]
+    },
+    {
+        "Id": "5e6f7890ab1234567890abcdef123456",
+        "RecognitionStatus": "Success",
+        "Offset": 27000000,
+        "Duration": 6000000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Officer",
+        "DisplayText": "This hearing is being held at the Metro Police Station, 1200 Justice Drive. Case reference number CR-2025-7892. Can you state your full name for the record?",
+        "NBest": [
+            {
+                "Confidence": 0.928765,
+                "Lexical": "this hearing is being held at the metro police station twelve hundred justice drive case reference number cr twenty twenty five seven eight nine two can you state your full name for the record",
+                "ITN": "this hearing is being held at the Metro Police Station 1200 Justice Drive case reference number CR-2025-7892 can you state your full name for the record",
+                "MaskedITN": "this hearing is being held at the Metro Police Station 1200 Justice Drive case reference number CR-2025-7892 can you state your full name for the record",
+                "Display": "This hearing is being held at the Metro Police Station, 1200 Justice Drive. Case reference number CR-2025-7892. Can you state your full name for the record?"
+            }
+        ]
+    },
+    {
+        "Id": "6f7890ab1234567890abcdef12345678",
+        "RecognitionStatus": "Success",
+        "Offset": 33000000,
+        "Duration": 3500000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Suspect",
+        "DisplayText": "My name is Michael Thompson. Date of birth March 15th, 1990.",
+        "NBest": [
+            {
+                "Confidence": 0.915432,
+                "Lexical": "my name is michael thompson date of birth march fifteenth nineteen ninety",
+                "ITN": "my name is Michael Thompson date of birth March 15th 1990",
+                "MaskedITN": "my name is Michael Thompson date of birth March 15th 1990",
+                "Display": "My name is Michael Thompson. Date of birth March 15th, 1990."
+            }
+        ]
+    },
+    {
+        "Id": "7890ab1234567890abcdef1234567890",
+        "RecognitionStatus": "Success",
+        "Offset": 36500000,
+        "Duration": 4000000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Officer",
+        "DisplayText": "Thank you. And your current address, Mr. Thompson?",
+        "NBest": [
+            {
+                "Confidence": 0.923456,
+                "Lexical": "thank you and your current address mister thompson",
+                "ITN": "thank you and your current address Mr. Thompson",
+                "MaskedITN": "thank you and your current address Mr. Thompson",
+                "Display": "Thank you. And your current address, Mr. Thompson?"
+            }
+        ]
+    },
+    {
+        "Id": "890ab1234567890abcdef12345678901",
+        "RecognitionStatus": "Success",
+        "Offset": 40500000,
+        "Duration": 3000000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Suspect",
+        "DisplayText": "789 Maple Avenue, Apartment 3B. Driver's license number DL-789456123.",
+        "NBest": [
+            {
+                "Confidence": 0.908765,
+                "Lexical": "seven eight nine maple avenue apartment three b drivers license number dl seven eight nine four five six one two three",
+                "ITN": "789 Maple Avenue Apartment 3B drivers license number DL-789456123",
+                "MaskedITN": "789 Maple Avenue Apartment 3B drivers license number DL-789456123",
+                "Display": "789 Maple Avenue, Apartment 3B. Driver's license number DL-789456123."
+            }
+        ]
+    },
+    {
+        "Id": "90ab1234567890abcdef123456789012",
+        "RecognitionStatus": "Success",
+        "Offset": 43500000,
+        "Duration": 5000000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Officer",
+        "DisplayText": "Now, let's hear from the witness. Can you state your name and contact information?",
+        "NBest": [
+            {
+                "Confidence": 0.931234,
+                "Lexical": "now lets hear from the witness can you state your name and contact information",
+                "ITN": "now let's hear from the witness can you state your name and contact information",
+                "MaskedITN": "now let's hear from the witness can you state your name and contact information",
+                "Display": "Now, let's hear from the witness. Can you state your name and contact information?"
+            }
+        ]
+    },
+    {
+        "Id": "0ab1234567890abcdef1234567890123",
+        "RecognitionStatus": "Success",
+        "Offset": 48500000,
+        "Duration": 4500000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Witness",
+        "DisplayText": "I'm Jennifer Williams, born August 22nd, 1985. I live at 156 Pine Street. My phone number is 555-0198.",
+        "NBest": [
+            {
+                "Confidence": 0.925678,
+                "Lexical": "im jennifer williams born august twenty second nineteen eighty five i live at one five six pine street my phone number is five five five zero one nine eight",
+                "ITN": "I'm Jennifer Williams born August 22nd 1985 I live at 156 Pine Street my phone number is 555-0198",
+                "MaskedITN": "I'm Jennifer Williams born August 22nd 1985 I live at 156 Pine Street my phone number is 555-0198",
+                "Display": "I'm Jennifer Williams, born August 22nd, 1985. I live at 156 Pine Street. My phone number is 555-0198."
+            }
+        ]
+    },
+    {
+        "Id": "ab1234567890abcdef12345678901234",
+        "RecognitionStatus": "Success",
+        "Offset": 53000000,
+        "Duration": 4000000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Officer",
+        "DisplayText": "Are there any legal representatives present today?",
+        "NBest": [
+            {
+                "Confidence": 0.918765,
+                "Lexical": "are there any legal representatives present today",
+                "ITN": "are there any legal representatives present today",
+                "MaskedITN": "are there any legal representatives present today",
+                "Display": "Are there any legal representatives present today?"
+            }
+        ]
+    },
+    {
+        "Id": "b1234567890abcdef123456789012345",
+        "RecognitionStatus": "Success",
+        "Offset": 57000000,
+        "Duration": 3500000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Lawyer",
+        "DisplayText": "Yes, I'm Attorney David Rodriguez representing Mr. Thompson. You can reach me at 555-0742.",
+        "NBest": [
+            {
+                "Confidence": 0.922345,
+                "Lexical": "yes im attorney david rodriguez representing mister thompson you can reach me at five five five zero seven four two",
+                "ITN": "yes I'm Attorney David Rodriguez representing Mr. Thompson you can reach me at 555-0742",
+                "MaskedITN": "yes I'm Attorney David Rodriguez representing Mr. Thompson you can reach me at 555-0742",
+                "Display": "Yes, I'm Attorney David Rodriguez representing Mr. Thompson. You can reach me at 555-0742."
+            }
+        ]
+    },
+    {
+        "Id": "1234567890abcdef1234567890123456",
+        "RecognitionStatus": "Success",
+        "Offset": 60500000,
+        "Duration": 6000000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Officer",
+        "DisplayText": "This is a preliminary hearing for alleged assault charges. Ms. Williams, can you describe what you witnessed?",
+        "NBest": [
+            {
+                "Confidence": 0.935421,
+                "Lexical": "this is a preliminary hearing for alleged assault charges ms williams can you describe what you witnessed",
+                "ITN": "this is a preliminary hearing for alleged assault charges Ms. Williams can you describe what you witnessed",
+                "MaskedITN": "this is a preliminary hearing for alleged assault charges Ms. Williams can you describe what you witnessed",
+                "Display": "This is a preliminary hearing for alleged assault charges. Ms. Williams, can you describe what you witnessed?"
+            }
+        ]
+    },
+    {
+        "Id": "234567890abcdef12345678901234567",
+        "RecognitionStatus": "Success",
+        "Offset": 66500000,
+        "Duration": 8000000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Witness",
+        "DisplayText": "I saw Mr. Thompson push another man outside the store. The victim appeared to be injured and was bleeding from his nose. I immediately called 911.",
+        "NBest": [
+            {
+                "Confidence": 0.918432,
+                "Lexical": "i saw mister thompson push another man outside the store the victim appeared to be injured and was bleeding from his nose i immediately called nine one one",
+                "ITN": "I saw Mr. Thompson push another man outside the store the victim appeared to be injured and was bleeding from his nose I immediately called 911",
+                "MaskedITN": "I saw Mr. Thompson push another man outside the store the victim appeared to be injured and was bleeding from his nose I immediately called 911",
+                "Display": "I saw Mr. Thompson push another man outside the store. The victim appeared to be injured and was bleeding from his nose. I immediately called 911."
+            }
+        ]
+    },
+    {
+        "Id": "34567890abcdef123456789012345678",
+        "RecognitionStatus": "Success",
+        "Offset": 74500000,
+        "Duration": 4000000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Officer",
+        "DisplayText": "During the incident, I observed Mr. Thompson appeared agitated and uncooperative when officers arrived on scene.",
+        "NBest": [
+            {
+                "Confidence": 0.926789,
+                "Lexical": "during the incident i observed mister thompson appeared agitated and uncooperative when officers arrived on scene",
+                "ITN": "during the incident I observed Mr. Thompson appeared agitated and uncooperative when officers arrived on scene",
+                "MaskedITN": "during the incident I observed Mr. Thompson appeared agitated and uncooperative when officers arrived on scene",
+                "Display": "During the incident, I observed Mr. Thompson appeared agitated and uncooperative when officers arrived on scene."
+            }
+        ]
+    },
+    {
+        "Id": "4567890abcdef1234567890123456789",
+        "RecognitionStatus": "Success",
+        "Offset": 78500000,
+        "Duration": 5000000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Officer",
+        "DisplayText": "Based on the evidence presented, Mr. Thompson will be remanded in custody pending further investigation. Next court date is scheduled for July 25th, 2025.",
+        "NBest": [
+            {
+                "Confidence": 0.934123,
+                "Lexical": "based on the evidence presented mister thompson will be remanded in custody pending further investigation next court date is scheduled for july twenty fifth twenty twenty five",
+                "ITN": "based on the evidence presented Mr. Thompson will be remanded in custody pending further investigation next court date is scheduled for July 25th 2025",
+                "MaskedITN": "based on the evidence presented Mr. Thompson will be remanded in custody pending further investigation next court date is scheduled for July 25th 2025",
+                "Display": "Based on the evidence presented, Mr. Thompson will be remanded in custody pending further investigation. Next court date is scheduled for July 25th, 2025."
+            }
+        ]
+    },
+    {
+        "Id": "567890abcdef12345678901234567890",
+        "RecognitionStatus": "Success",
+        "Offset": 83500000,
+        "Duration": 4000000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Officer",
+        "DisplayText": "This hearing record will include photographs of the scene, the victim's medical report, and the 911 call recording as evidence.",
+        "NBest": [
+            {
+                "Confidence": 0.921567,
+                "Lexical": "this hearing record will include photographs of the scene the victims medical report and the nine one one call recording as evidence",
+                "ITN": "this hearing record will include photographs of the scene the victim's medical report and the 911 call recording as evidence",
+                "MaskedITN": "this hearing record will include photographs of the scene the victim's medical report and the 911 call recording as evidence",
+                "Display": "This hearing record will include photographs of the scene, the victim's medical report, and the 911 call recording as evidence."
+            }
+        ]
+    },
+    {
+        "Id": "67890abcdef123456789012345678901",
+        "RecognitionStatus": "Success",
+        "Offset": 87500000,
+        "Duration": 3000000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "Unknown"
+        },
+        "Channel": 0,
+        "Type": "ConversationTranscription",
+        "SpeakerId": "Officer",
+        "DisplayText": "This concludes today's preliminary hearing. Report will be submitted on July 10th, 2025 for supervisory review.",
+        "NBest": [
+            {
+                "Confidence": 0.928456,
+                "Lexical": "this concludes todays preliminary hearing report will be submitted on july tenth twenty twenty five for supervisory review",
+                "ITN": "this concludes today's preliminary hearing report will be submitted on July 10th 2025 for supervisory review",
+                "MaskedITN": "this concludes today's preliminary hearing report will be submitted on July 10th 2025 for supervisory review",
+                "Display": "This concludes today's preliminary hearing. Report will be submitted on July 10th, 2025 for supervisory review."
+            }
+        ]
+    }
+]
